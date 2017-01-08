@@ -22,7 +22,7 @@
     "sc-emitter": "1.x.x",
     "sc-errors": "1.0.x",
     "sc-formatter": "3.0.x",
-    "ws": "1.1.1"
+    "nativescript-websockets": "1.x.x"
   },
   "browser": {
     "ws": "./lib/ws-browser.js"
